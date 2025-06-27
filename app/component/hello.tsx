@@ -3,7 +3,7 @@
 function Hello() {
     console.log("I am a Clint Component");
 
-    retturn(
+    return(
         <div>
             <h1>"Hello"</h1>
         </div>
